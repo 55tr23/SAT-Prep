@@ -1,3 +1,4 @@
+# I LOVE VIBE CODING (JK)
 # SAT Prep App
 
 An AI-powered mobile application designed to help students prepare for the SAT exam with personalized practice and analytics.
